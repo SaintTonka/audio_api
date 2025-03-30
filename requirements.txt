@@ -1,7 +1,6 @@
 fastapi
 uvicorn
 sqlalchemy
-psycopg2
 pydantic[email]
 python-multipart
 python-jose
@@ -15,3 +14,5 @@ python-dotenv
 alembic
 psycopg2-binary
 pydantic_settings
+cachetools
+httpx
